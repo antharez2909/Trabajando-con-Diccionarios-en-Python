@@ -1,2 +1,3 @@
 # Trabajando-con-Diccionarios-en-Python
-Utilizar diccionarios en Python para representar información estructurada y realizar operaciones comunes.
+
+EDISON REMACHE DE PRIMER SEMESTE DE FUNDAMENTOS DE PROGRAMACION PARELELO E
